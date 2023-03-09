@@ -2,10 +2,10 @@
 # Version
 * Version : <b>4.18</b> [9/3/2023]
 
-#Project Night: https://dsc.gg/projectnight
+# Project Night: https://dsc.gg/projectnight
 
-#Project Night is Free Growtopia Cheat/Hack Client with awesome features, We hope you join our community and come test our *Project!
-*Embed Preview
+# Project Night is Free Growtopia Cheat/Hack Client with awesome features, We hope you join our community and come test our *Project!
+* Embed Preview
 
 # What new [9/3/2023]
 * Added Player management (check docs for more info)
